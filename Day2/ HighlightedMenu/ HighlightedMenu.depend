@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1666557982 source:d:\ai&ml iti\c++ program\day2\ highlightedmenu\main.cpp
+	<iostream>
+	<MyLibrary.h>
+	<conio.h>
+
