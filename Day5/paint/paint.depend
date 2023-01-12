@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1667203165 source:d:\ai&ml iti\c++ program\day5\paint\main.cpp
+	<iostream>
+	"Picture.h"
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+
+1667132393 source:d:\ai&ml iti\c++ program\day5\paint\src\point.cpp
+	"Point.h"
+
+1667132393 d:\ai&ml iti\c++ program\day5\paint\include\point.h
+	<iostream>
+
+1667139035 source:d:\ai&ml iti\c++ program\day5\paint\src\line.cpp
+	"Line.h"
+	"Point.h"
+	<iostream>
+
+1667135472 d:\ai&ml iti\c++ program\day5\paint\include\line.h
+	"Point.h"
+
+1667137696 source:d:\ai&ml iti\c++ program\day5\paint\src\cricle.cpp
+	"Cricle.h"
+	"Point.h"
+	<iostream>
+
+1667135472 d:\ai&ml iti\c++ program\day5\paint\include\cricle.h
+	"Point.h"
+
+1667135437 source:d:\ai&ml iti\c++ program\day5\paint\src\rect.cpp
+	"Rect.h"
+	"Point.h"
+	<iostream>
+
+1667135472 d:\ai&ml iti\c++ program\day5\paint\include\rect.h
+	"Point.h"
+
+1667137800 source:d:\ai&ml iti\c++ program\day5\paint\src\picture.cpp
+	"Picture.h"
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+	<iostream>
+
+1667136870 d:\ai&ml iti\c++ program\day5\paint\include\picture.h
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1666210288 source:d:\ai&ml iti\c++ program\day1\complex\main.cpp
+	<iostream>
+
+1666210288 source:d:\ai&ml iti\c++ program\day6\complex\main.cpp
+	<iostream>
+
+1667211514 source:d:\ai&ml iti\c++ program\day6\complex\src\point.cpp
+	"Point.h"
+
+1667211514 d:\ai&ml iti\c++ program\day6\complex\include\point.h
+

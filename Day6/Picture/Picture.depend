@@ -1,0 +1,73 @@
+# depslib dependency file v1.0
+1667222700 source:d:\ai&ml iti\c++ program\day6\picture\main.cpp
+	<iostream>
+	"Picture.h"
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+	<graphics.h>
+
+1667223177 source:d:\ai&ml iti\c++ program\day6\picture\src\point.cpp
+	"Point.h"
+
+1667221853 d:\ai&ml iti\c++ program\day6\picture\include\point.h
+	<iostream>
+
+1667221833 d:\ai&ml iti\c++ program\day6\picture\include\cricle.h
+	"Point.h"
+	"Shape.h"
+
+1667221833 d:\ai&ml iti\c++ program\day6\picture\include\line.h
+	"Point.h"
+	"Shape.h"
+
+1667221913 source:d:\ai&ml iti\c++ program\day6\picture\src\cricle.cpp
+	"Cricle.h"
+	"Point.h"
+	<iostream>
+	<graphics.h>
+	"Shape.h"
+
+1667221926 source:d:\ai&ml iti\c++ program\day6\picture\src\line.cpp
+	"Line.h"
+	"Point.h"
+	"Shape.h"
+	<iostream>
+	<graphics.h>
+
+1667221833 source:d:\ai&ml iti\c++ program\day6\picture\src\rect.cpp
+	"Rect.h"
+	"Point.h"
+	<iostream>
+	<graphics.h>
+	"Shape.h"
+
+1667221833 d:\ai&ml iti\c++ program\day6\picture\include\rect.h
+	"Point.h"
+	"Shape.h"
+
+1667223105 source:d:\ai&ml iti\c++ program\day6\picture\src\picture.cpp
+	"Picture.h"
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+	<iostream>
+	<graphics.h>
+	"Shape.h"
+
+1667223114 d:\ai&ml iti\c++ program\day6\picture\include\picture.h
+	"Point.h"
+	"Cricle.h"
+	"Line.h"
+	"Rect.h"
+	"Shape.h"
+
+1667222700 d:\ai&ml iti\c++ program\day6\picture\include\shape.h
+	<iostream>
+
+1667222700 source:d:\ai&ml iti\c++ program\day6\picture\src\shape.cpp
+	"Shape.h"
+	<iostream>
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1667225510 source:d:\ai&ml iti\c++ program\day6\testall\main.cpp
+	<iostream>
+	"SecondDerived.h"
+	"Derived.h"
+
+1667220398 source:d:\ai&ml iti\c++ program\day6\testall\src\base.cpp
+	"Base.h"
+	<iostream>
+	"Base.h"
+
+1667219516 d:\ai&ml iti\c++ program\day6\testall\include\base.h
+
+1667220523 source:d:\ai&ml iti\c++ program\day6\testall\src\derived.cpp
+	"Derived.h"
+	<iostream>
+	"Base.h"
+
+1667219672 d:\ai&ml iti\c++ program\day6\testall\include\derived.h
+	"Base.h"
+	<iostream>
+
+1667220287 d:\ai&ml iti\c++ program\day6\testall\include\secondderived.h
+	"Derived.h"
+
+1667220476 source:d:\ai&ml iti\c++ program\day6\testall\src\secondderived.cpp
+	"SecondDerived.h"
+	"Derived.h"
+
