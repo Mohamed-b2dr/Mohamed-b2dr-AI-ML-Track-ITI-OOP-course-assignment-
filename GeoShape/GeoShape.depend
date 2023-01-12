@@ -1,0 +1,84 @@
+# depslib dependency file v1.0
+1667302339 source:d:\ai&ml iti\c++ program\day7\geoshape\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Rect.h"
+	"Square.h"
+	"Circle.h"
+
+1667299387 source:d:\ai&ml iti\c++ program\day7\geoshape\src\shape.cpp
+	"Shape.h"
+	<iostream>
+
+1667299370 d:\ai&ml iti\c++ program\day7\geoshape\include\shape.h
+
+1667299354 d:\ai&ml iti\c++ program\day7\geoshape\include\triangle.h
+	<Shape.h>
+
+1667302339 source:d:\ai&ml iti\c++ program\day7\geoshape\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1667300917 d:\ai&ml iti\c++ program\day7\geoshape\include\circle.h
+	<Shape.h>
+
+1667301454 source:d:\ai&ml iti\c++ program\day7\geoshape\src\rect.cpp
+	"Rect.h"
+	<iostream>
+
+1667300917 d:\ai&ml iti\c++ program\day7\geoshape\include\rect.h
+	<Shape.h>
+
+1667301768 source:d:\ai&ml iti\c++ program\day7\geoshape\src\square.cpp
+	"Square.h"
+	<iostream>
+
+1667300917 d:\ai&ml iti\c++ program\day7\geoshape\include\square.h
+	<Rect.h>
+
+1667301246 source:d:\ai&ml iti\c++ program\day7\geoshape\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1667386331 source:d:\ai&ml iti\c++ program\geoshape\main.cpp
+	<iostream>
+	"Triangle.h"
+	"Rect.h"
+	"Square.h"
+	"Circle.h"
+	"Shape.h"
+
+1667299354 d:\ai&ml iti\c++ program\geoshape\include\triangle.h
+	<Shape.h>
+
+1667386066 d:\ai&ml iti\c++ program\geoshape\include\shape.h
+
+1667394800 d:\ai&ml iti\c++ program\geoshape\include\rect.h
+	<Shape.h>
+
+1667386391 d:\ai&ml iti\c++ program\geoshape\include\square.h
+	<Rect.h>
+
+1667386391 d:\ai&ml iti\c++ program\geoshape\include\circle.h
+	<Shape.h>
+
+1667302339 source:d:\ai&ml iti\c++ program\geoshape\src\circle.cpp
+	"Circle.h"
+	<iostream>
+
+1667301454 source:d:\ai&ml iti\c++ program\geoshape\src\rect.cpp
+	"Rect.h"
+	<iostream>
+
+1667301768 source:d:\ai&ml iti\c++ program\geoshape\src\square.cpp
+	"Square.h"
+	<iostream>
+
+1667301246 source:d:\ai&ml iti\c++ program\geoshape\src\triangle.cpp
+	"Triangle.h"
+	<iostream>
+
+1667386029 source:d:\ai&ml iti\c++ program\geoshape\src\shape.cpp
+	"Shape.h"
+	<iostream>
+
